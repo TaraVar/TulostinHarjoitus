@@ -2,7 +2,7 @@ public class App {
     public static void main(String[] args) throws Exception {
        
        //Kirjoitetaan koodit:
-       String tekija = "Ihminen";
+       String tekija = "Käyttäjä";
 
         int luku1 = 0;
         int luku2 = 0;
