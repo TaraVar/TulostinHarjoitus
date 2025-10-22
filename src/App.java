@@ -6,11 +6,11 @@ public class App {
 
         int luku1 = 0;
         int luku2 = 0;
-        int tulo = luku1 + luku2;
+        int tulo = luku1 - luku2;
         luku1 = 10;
         luku2 = 5;
         
-        tulo= luku1 +luku2;
+        tulo= luku1 -luku2;
     
         System.out.println("Hei olen Tulostin-ohjelma");
         // System.out.print("Ohjelman tekijä: ");
