@@ -7,8 +7,8 @@ public class App {
         int luku1 = 0;
         int luku2 = 0;
         int tulo = luku1 + luku2;
-        luku1 = 5;
-        luku2 = 2;
+        luku1 = 10;
+        luku2 = 5;
         
         tulo= luku1 +luku2;
     
